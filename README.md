@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NextWorkX – AI-Based Job Recommendation Platform
 
 NextWorkX is a smart job recommendation system for both freshers and experienced professionals. It connects job seekers and recruiters through a web platform that uses machine learning to suggest jobs based on resumes, skills, and profile data.
@@ -150,3 +151,6 @@ nextworkx/
 This project is for academic and educational use only.
 
 ---
+=======
+# AI-Powered-Next-Gen-Job-Recommendation-System-Using-NLP-and-Machine-Learning
+>>>>>>> f3c77d1 (Project Report)
